@@ -1,0 +1,6 @@
+@VideoRent.API_HostAddress = http://localhost:5263
+
+GET {{VideoRent.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

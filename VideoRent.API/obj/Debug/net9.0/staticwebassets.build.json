@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fC6zGHMSAGcnOpFgGmt9koF5Ag9+Ze7buFz7Smgx5dk=",
+  "Source": "VideoRent.API",
+  "BasePath": "_content/VideoRent.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

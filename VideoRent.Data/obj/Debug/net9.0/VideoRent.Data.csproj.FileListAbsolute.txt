@@ -1,0 +1,15 @@
+C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Data\obj\Debug\net9.0\VideoRent.Data.csproj.AssemblyReference.cache
+C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Data\obj\Debug\net9.0\VideoRent.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Data\obj\Debug\net9.0\VideoRent.Data.AssemblyInfoInputs.cache
+C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Data\obj\Debug\net9.0\VideoRent.Data.AssemblyInfo.cs
+C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Data\obj\Debug\net9.0\VideoRent.Data.csproj.CoreCompileInputs.cache
+C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Data\bin\Debug\net9.0\VideoRent.Data.deps.json
+C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Data\bin\Debug\net9.0\VideoRent.Data.dll
+C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Data\bin\Debug\net9.0\VideoRent.Data.pdb
+C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Data\bin\Debug\net9.0\VideoRent.Domain.dll
+C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Data\bin\Debug\net9.0\VideoRent.Domain.pdb
+C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Data\obj\Debug\net9.0\VideoRen.94042B35.Up2Date
+C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Data\obj\Debug\net9.0\VideoRent.Data.dll
+C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Data\obj\Debug\net9.0\refint\VideoRent.Data.dll
+C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Data\obj\Debug\net9.0\VideoRent.Data.pdb
+C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Data\obj\Debug\net9.0\ref\VideoRent.Data.dll
