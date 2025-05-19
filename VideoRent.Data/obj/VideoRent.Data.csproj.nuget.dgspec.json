@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.Data\\VideoRent.Data.csproj": {}
+    "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Data\\VideoRent.Data.csproj": {}
   },
   "projects": {
-    "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.Data\\VideoRent.Data.csproj": {
+    "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Data\\VideoRent.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.Data\\VideoRent.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Data\\VideoRent.Data.csproj",
         "projectName": "VideoRent.Data",
-        "projectPath": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.Data\\VideoRent.Data.csproj",
-        "packagesPath": "C:\\Users\\Alvaro Mena\\.nuget\\packages\\",
-        "outputPath": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.Data\\obj\\",
+        "projectPath": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Data\\VideoRent.Data.csproj",
+        "packagesPath": "C:\\Users\\Lab01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alvaro Mena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lab01\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.Domain\\VideoRent.Domain.csproj": {
-                "projectPath": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.Domain\\VideoRent.Domain.csproj"
+              "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Domain\\VideoRent.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Domain\\VideoRent.Domain.csproj"
               }
             }
           }
@@ -48,7 +49,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -61,6 +62,10 @@
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
               "version": "[9.0.5, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
@@ -79,24 +84,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.Domain\\VideoRent.Domain.csproj": {
+    "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Domain\\VideoRent.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.Domain\\VideoRent.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Domain\\VideoRent.Domain.csproj",
         "projectName": "VideoRent.Domain",
-        "projectPath": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.Domain\\VideoRent.Domain.csproj",
-        "packagesPath": "C:\\Users\\Alvaro Mena\\.nuget\\packages\\",
-        "outputPath": "C:\\SW_DEV\\Lenguajes2025\\DotNet\\VideoRentSolution\\VideoRent.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Domain\\VideoRent.Domain.csproj",
+        "packagesPath": "C:\\Users\\Lab01\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alvaro Mena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lab01\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -105,6 +110,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -123,11 +129,17 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -144,7 +156,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
