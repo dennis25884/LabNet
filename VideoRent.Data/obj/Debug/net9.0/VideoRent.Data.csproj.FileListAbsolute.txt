@@ -35,3 +35,25 @@ C:\Users\Lab01\Desktop\lab\VideoRentSolutionDotNet\VideoRent.Data\obj\Debug\net9
 C:\Users\Lab01\Desktop\lab\VideoRentSolutionDotNet\VideoRent.Data\obj\Debug\net9.0\refint\VideoRent.Data.dll
 C:\Users\Lab01\Desktop\lab\VideoRentSolutionDotNet\VideoRent.Data\obj\Debug\net9.0\VideoRent.Data.pdb
 C:\Users\Lab01\Desktop\lab\VideoRentSolutionDotNet\VideoRent.Data\obj\Debug\net9.0\ref\VideoRent.Data.dll
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\bin\Debug\net9.0\NUnit3.TestAdapter.pdb
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\bin\Debug\net9.0\nunit.engine.dll
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\bin\Debug\net9.0\nunit.engine.api.dll
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\bin\Debug\net9.0\nunit.engine.core.dll
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\bin\Debug\net9.0\testcentric.engine.metadata.dll
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\bin\Debug\net9.0\NUnit3.TestAdapter.dll
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\bin\Debug\net9.0\VideoRent.Data.deps.json
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\bin\Debug\net9.0\VideoRent.Data.dll
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\bin\Debug\net9.0\VideoRent.Data.pdb
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\bin\Debug\net9.0\VideoRent.Domain.dll
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\bin\Debug\net9.0\VideoRent.Domain.pdb
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\obj\Debug\net9.0\VideoRent.Data.csproj.AssemblyReference.cache
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\obj\Debug\net9.0\VideoRent.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\obj\Debug\net9.0\VideoRent.Data.AssemblyInfoInputs.cache
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\obj\Debug\net9.0\VideoRent.Data.AssemblyInfo.cs
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\obj\Debug\net9.0\VideoRent.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\obj\Debug\net9.0\VideoRent.Data.sourcelink.json
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\obj\Debug\net9.0\VideoRen.94042B35.Up2Date
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\obj\Debug\net9.0\VideoRent.Data.dll
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\obj\Debug\net9.0\refint\VideoRent.Data.dll
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\obj\Debug\net9.0\VideoRent.Data.pdb
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Data\obj\Debug\net9.0\ref\VideoRent.Data.dll

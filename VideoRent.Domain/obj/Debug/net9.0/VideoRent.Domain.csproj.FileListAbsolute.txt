@@ -28,3 +28,22 @@ C:\Users\Lab01\Desktop\lab\VideoRentSolutionDotNet\VideoRent.Domain\obj\Debug\ne
 C:\Users\Lab01\Desktop\lab\VideoRentSolutionDotNet\VideoRent.Domain\obj\Debug\net9.0\refint\VideoRent.Domain.dll
 C:\Users\Lab01\Desktop\lab\VideoRentSolutionDotNet\VideoRent.Domain\obj\Debug\net9.0\VideoRent.Domain.pdb
 C:\Users\Lab01\Desktop\lab\VideoRentSolutionDotNet\VideoRent.Domain\obj\Debug\net9.0\ref\VideoRent.Domain.dll
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Domain\bin\Debug\net9.0\NUnit3.TestAdapter.pdb
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Domain\bin\Debug\net9.0\nunit.engine.dll
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Domain\bin\Debug\net9.0\nunit.engine.api.dll
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Domain\bin\Debug\net9.0\nunit.engine.core.dll
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Domain\bin\Debug\net9.0\testcentric.engine.metadata.dll
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Domain\bin\Debug\net9.0\NUnit3.TestAdapter.dll
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Domain\bin\Debug\net9.0\VideoRent.Domain.deps.json
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Domain\bin\Debug\net9.0\VideoRent.Domain.dll
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Domain\bin\Debug\net9.0\VideoRent.Domain.pdb
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Domain\obj\Debug\net9.0\VideoRent.Domain.csproj.AssemblyReference.cache
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Domain\obj\Debug\net9.0\VideoRent.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Domain\obj\Debug\net9.0\VideoRent.Domain.AssemblyInfoInputs.cache
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Domain\obj\Debug\net9.0\VideoRent.Domain.AssemblyInfo.cs
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Domain\obj\Debug\net9.0\VideoRent.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Domain\obj\Debug\net9.0\VideoRent.Domain.sourcelink.json
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Domain\obj\Debug\net9.0\VideoRent.Domain.dll
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Domain\obj\Debug\net9.0\refint\VideoRent.Domain.dll
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Domain\obj\Debug\net9.0\VideoRent.Domain.pdb
+C:\Users\Dennis\OneDrive - Universidad de Costa Rica\Escritorio\Lenguajes para aplicaciones comerciales\Lab.Net\LabNet\VideoRent.Domain\obj\Debug\net9.0\ref\VideoRent.Domain.dll

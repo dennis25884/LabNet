@@ -1,77 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\",
+  "WorkspaceRootPath": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.test\\data\\peliculadatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\data\\peliculadatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.test\\data\\generodatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\data\\generodatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{094207E9-5153-4467-A46B-725C2853554C}|VideoRent.Domain\\VideoRent.Domain.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.domain\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{094207E9-5153-4467-A46B-725C2853554C}|VideoRent.Domain\\VideoRent.Domain.csproj|solutionrelative:videorent.domain\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.api\\videorent.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|solutionrelative:videorent.api\\videorent.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82D63247-13EC-428A-B1E8-F24CBC62388F}|VideoRent.Data\\VideoRent.Data.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.data\\peliculadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82D63247-13EC-428A-B1E8-F24CBC62388F}|VideoRent.Data\\VideoRent.Data.csproj|solutionrelative:videorent.data\\peliculadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.test\\domain\\peliculatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\domain\\peliculatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82D63247-13EC-428A-B1E8-F24CBC62388F}|VideoRent.Data\\VideoRent.Data.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.data\\videorent.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{82D63247-13EC-428A-B1E8-F24CBC62388F}|VideoRent.Data\\VideoRent.Data.csproj|solutionrelative:videorent.data\\videorent.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{094207E9-5153-4467-A46B-725C2853554C}|VideoRent.Domain\\VideoRent.Domain.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.domain\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{094207E9-5153-4467-A46B-725C2853554C}|VideoRent.Domain\\VideoRent.Domain.csproj|solutionrelative:videorent.domain\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82D63247-13EC-428A-B1E8-F24CBC62388F}|VideoRent.Data\\VideoRent.Data.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.data\\generodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82D63247-13EC-428A-B1E8-F24CBC62388F}|VideoRent.Data\\VideoRent.Data.csproj|solutionrelative:videorent.data\\generodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.test\\domain\\generotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\domain\\generotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.test\\videorent.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\videorent.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.test\\videorent.test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\videorent.test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|solutionrelative:videorent.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.api\\videorent.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|solutionrelative:videorent.api\\videorent.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|solutionrelative:videorent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|c:\\users\\dennis\\onedrive - universidad de costa rica\\escritorio\\lenguajes para aplicaciones comerciales\\lab.net\\labnet\\videorent.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|solutionrelative:videorent.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{094207E9-5153-4467-A46B-725C2853554C}|VideoRent.Domain\\VideoRent.Domain.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.domain\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\dennis\\onedrive - universidad de costa rica\\escritorio\\lenguajes para aplicaciones comerciales\\lab.net\\labnet\\videorent.test\\data\\peliculadatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\data\\peliculadatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|c:\\users\\dennis\\onedrive - universidad de costa rica\\escritorio\\lenguajes para aplicaciones comerciales\\lab.net\\labnet\\videorent.api\\videorent.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|solutionrelative:videorent.api\\videorent.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\dennis\\onedrive - universidad de costa rica\\escritorio\\lenguajes para aplicaciones comerciales\\lab.net\\labnet\\videorent.test\\data\\generodatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\data\\generodatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094207E9-5153-4467-A46B-725C2853554C}|VideoRent.Domain\\VideoRent.Domain.csproj|c:\\users\\dennis\\onedrive - universidad de costa rica\\escritorio\\lenguajes para aplicaciones comerciales\\lab.net\\labnet\\videorent.domain\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094207E9-5153-4467-A46B-725C2853554C}|VideoRent.Domain\\VideoRent.Domain.csproj|solutionrelative:videorent.domain\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\dennis\\onedrive - universidad de costa rica\\escritorio\\lenguajes para aplicaciones comerciales\\lab.net\\labnet\\videorent.test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D63247-13EC-428A-B1E8-F24CBC62388F}|VideoRent.Data\\VideoRent.Data.csproj|c:\\users\\dennis\\onedrive - universidad de costa rica\\escritorio\\lenguajes para aplicaciones comerciales\\lab.net\\labnet\\videorent.data\\peliculadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D63247-13EC-428A-B1E8-F24CBC62388F}|VideoRent.Data\\VideoRent.Data.csproj|solutionrelative:videorent.data\\peliculadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\dennis\\onedrive - universidad de costa rica\\escritorio\\lenguajes para aplicaciones comerciales\\lab.net\\labnet\\videorent.test\\domain\\peliculatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\domain\\peliculatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D63247-13EC-428A-B1E8-F24CBC62388F}|VideoRent.Data\\VideoRent.Data.csproj|c:\\users\\dennis\\onedrive - universidad de costa rica\\escritorio\\lenguajes para aplicaciones comerciales\\lab.net\\labnet\\videorent.data\\videorent.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82D63247-13EC-428A-B1E8-F24CBC62388F}|VideoRent.Data\\VideoRent.Data.csproj|solutionrelative:videorent.data\\videorent.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094207E9-5153-4467-A46B-725C2853554C}|VideoRent.Domain\\VideoRent.Domain.csproj|c:\\users\\dennis\\onedrive - universidad de costa rica\\escritorio\\lenguajes para aplicaciones comerciales\\lab.net\\labnet\\videorent.domain\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094207E9-5153-4467-A46B-725C2853554C}|VideoRent.Domain\\VideoRent.Domain.csproj|solutionrelative:videorent.domain\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D63247-13EC-428A-B1E8-F24CBC62388F}|VideoRent.Data\\VideoRent.Data.csproj|c:\\users\\dennis\\onedrive - universidad de costa rica\\escritorio\\lenguajes para aplicaciones comerciales\\lab.net\\labnet\\videorent.data\\generodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D63247-13EC-428A-B1E8-F24CBC62388F}|VideoRent.Data\\VideoRent.Data.csproj|solutionrelative:videorent.data\\generodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\dennis\\onedrive - universidad de costa rica\\escritorio\\lenguajes para aplicaciones comerciales\\lab.net\\labnet\\videorent.test\\domain\\generotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\domain\\generotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\dennis\\onedrive - universidad de costa rica\\escritorio\\lenguajes para aplicaciones comerciales\\lab.net\\labnet\\videorent.test\\videorent.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\videorent.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\dennis\\onedrive - universidad de costa rica\\escritorio\\lenguajes para aplicaciones comerciales\\lab.net\\labnet\\videorent.test\\videorent.test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\videorent.test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|c:\\users\\dennis\\onedrive - universidad de costa rica\\escritorio\\lenguajes para aplicaciones comerciales\\lab.net\\labnet\\videorent.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|solutionrelative:videorent.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|c:\\users\\dennis\\onedrive - universidad de costa rica\\escritorio\\lenguajes para aplicaciones comerciales\\lab.net\\labnet\\videorent.api\\videorent.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|solutionrelative:videorent.api\\videorent.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|c:\\users\\dennis\\onedrive - universidad de costa rica\\escritorio\\lenguajes para aplicaciones comerciales\\lab.net\\labnet\\videorent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|solutionrelative:videorent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094207E9-5153-4467-A46B-725C2853554C}|VideoRent.Domain\\VideoRent.Domain.csproj|c:\\users\\dennis\\onedrive - universidad de costa rica\\escritorio\\lenguajes para aplicaciones comerciales\\lab.net\\labnet\\videorent.domain\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{094207E9-5153-4467-A46B-725C2853554C}|VideoRent.Domain\\VideoRent.Domain.csproj|solutionrelative:videorent.domain\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -82,21 +82,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Genero.cs",
-              "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Domain\\Genero.cs",
+              "DocumentMoniker": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Domain\\Genero.cs",
               "RelativeDocumentMoniker": "VideoRent.Domain\\Genero.cs",
-              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Domain\\Genero.cs",
+              "ToolTip": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Domain\\Genero.cs",
               "RelativeToolTip": "VideoRent.Domain\\Genero.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T17:07:18.687Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -108,102 +107,84 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VideoRent.API",
-              "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.API\\VideoRent.API.csproj",
-              "RelativeDocumentMoniker": "VideoRent.API\\VideoRent.API.csproj",
-              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.API\\VideoRent.API.csproj",
-              "RelativeToolTip": "VideoRent.API\\VideoRent.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-19T20:29:22.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PeliculaDataTest.cs",
-              "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\Data\\PeliculaDataTest.cs",
+              "DocumentMoniker": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Test\\Data\\PeliculaDataTest.cs",
               "RelativeDocumentMoniker": "VideoRent.Test\\Data\\PeliculaDataTest.cs",
-              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\Data\\PeliculaDataTest.cs",
+              "ToolTip": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Test\\Data\\PeliculaDataTest.cs",
               "RelativeToolTip": "VideoRent.Test\\Data\\PeliculaDataTest.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAnwCAAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T20:13:57.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PeliculaTest.cs",
-              "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\Domain\\PeliculaTest.cs",
+              "DocumentMoniker": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Test\\Domain\\PeliculaTest.cs",
               "RelativeDocumentMoniker": "VideoRent.Test\\Domain\\PeliculaTest.cs",
-              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\Domain\\PeliculaTest.cs",
+              "ToolTip": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Test\\Domain\\PeliculaTest.cs",
               "RelativeToolTip": "VideoRent.Test\\Domain\\PeliculaTest.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T20:45:47.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\App.config",
-              "RelativeDocumentMoniker": "VideoRent.Test\\App.config",
-              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\App.config",
-              "RelativeToolTip": "VideoRent.Test\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-05-13T21:20:46.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GeneroDataTest.cs",
-              "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\Data\\GeneroDataTest.cs",
-              "RelativeDocumentMoniker": "VideoRent.Test\\Data\\GeneroDataTest.cs",
-              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\Data\\GeneroDataTest.cs",
-              "RelativeToolTip": "VideoRent.Test\\Data\\GeneroDataTest.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwCEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T20:56:27.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GeneroData.cs",
-              "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Data\\GeneroData.cs",
-              "RelativeDocumentMoniker": "VideoRent.Data\\GeneroData.cs",
-              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Data\\GeneroData.cs",
-              "RelativeToolTip": "VideoRent.Data\\GeneroData.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwvxAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T23:35:18.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T20:45:47.998Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PeliculaData.cs",
-              "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Data\\PeliculaData.cs",
-              "RelativeDocumentMoniker": "VideoRent.Data\\PeliculaData.cs",
-              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Data\\PeliculaData.cs",
-              "RelativeToolTip": "VideoRent.Data\\PeliculaData.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAwwEsAAAAjAAAAAAAAAA==",
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Test\\App.config",
+              "RelativeDocumentMoniker": "VideoRent.Test\\App.config",
+              "ToolTip": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Test\\App.config",
+              "RelativeToolTip": "VideoRent.Test\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-13T21:20:46.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeneroDataTest.cs",
+              "DocumentMoniker": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Test\\Data\\GeneroDataTest.cs",
+              "RelativeDocumentMoniker": "VideoRent.Test\\Data\\GeneroDataTest.cs",
+              "ToolTip": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Test\\Data\\GeneroDataTest.cs",
+              "RelativeToolTip": "VideoRent.Test\\Data\\GeneroDataTest.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T20:11:09.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T20:56:27.474Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "GeneroData.cs",
+              "DocumentMoniker": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Data\\GeneroData.cs",
+              "RelativeDocumentMoniker": "VideoRent.Data\\GeneroData.cs",
+              "ToolTip": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Data\\GeneroData.cs",
+              "RelativeToolTip": "VideoRent.Data\\GeneroData.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:35:18.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PeliculaData.cs",
+              "DocumentMoniker": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Data\\PeliculaData.cs",
+              "RelativeDocumentMoniker": "VideoRent.Data\\PeliculaData.cs",
+              "ToolTip": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Data\\PeliculaData.cs",
+              "RelativeToolTip": "VideoRent.Data\\PeliculaData.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAwwEsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:11:09.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "GeneroTest.cs",
-              "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\Domain\\GeneroTest.cs",
+              "DocumentMoniker": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Test\\Domain\\GeneroTest.cs",
               "RelativeDocumentMoniker": "VideoRent.Test\\Domain\\GeneroTest.cs",
-              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\Domain\\GeneroTest.cs",
+              "ToolTip": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Test\\Domain\\GeneroTest.cs",
               "RelativeToolTip": "VideoRent.Test\\Domain\\GeneroTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,50 +192,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Pelicula.cs",
-              "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Domain\\Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Domain\\Pelicula.cs",
               "RelativeDocumentMoniker": "VideoRent.Domain\\Pelicula.cs",
-              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Domain\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Domain\\Pelicula.cs",
               "RelativeToolTip": "VideoRent.Domain\\Pelicula.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T17:28:04.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T17:28:04.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "VideoRent.Data.csproj",
-              "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Data\\VideoRent.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Data\\VideoRent.Data.csproj",
               "RelativeDocumentMoniker": "VideoRent.Data\\VideoRent.Data.csproj",
-              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Data\\VideoRent.Data.csproj",
+              "ToolTip": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Data\\VideoRent.Data.csproj",
               "RelativeToolTip": "VideoRent.Data\\VideoRent.Data.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-13T20:22:31.803Z",
+              "WhenOpened": "2025-05-13T20:22:31.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "VideoRent.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "VideoRent.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:20:56.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
+              "Title": "VideoRent.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.API\\VideoRent.API.csproj",
+              "RelativeDocumentMoniker": "VideoRent.API\\VideoRent.API.csproj",
+              "ToolTip": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.API\\VideoRent.API.csproj",
+              "RelativeToolTip": "VideoRent.API\\VideoRent.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T20:29:22.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "VideoRent.Test.csproj",
-              "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\VideoRent.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Test\\VideoRent.Test.csproj",
               "RelativeDocumentMoniker": "VideoRent.Test\\VideoRent.Test.csproj",
-              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\VideoRent.Test.csproj",
+              "ToolTip": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Test\\VideoRent.Test.csproj",
               "RelativeToolTip": "VideoRent.Test\\VideoRent.Test.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-13T21:18:27.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T21:18:27.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.API\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.API\\appsettings.json",
               "RelativeDocumentMoniker": "VideoRent.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.API\\appsettings.json",
               "RelativeToolTip": "VideoRent.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -262,23 +265,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "VideoRent.Test",
-              "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\VideoRent.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Test\\VideoRent.Test.csproj",
               "RelativeDocumentMoniker": "VideoRent.Test\\VideoRent.Test.csproj",
-              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\VideoRent.Test.csproj",
+              "ToolTip": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Test\\VideoRent.Test.csproj",
               "RelativeToolTip": "VideoRent.Test\\VideoRent.Test.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-13T21:18:31.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T21:18:31.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "VideoRent.API.http",
-              "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.API\\VideoRent.API.http",
+              "DocumentMoniker": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.API\\VideoRent.API.http",
               "RelativeDocumentMoniker": "VideoRent.API\\VideoRent.API.http",
-              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.API\\VideoRent.API.http",
+              "ToolTip": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.API\\VideoRent.API.http",
               "RelativeToolTip": "VideoRent.API\\VideoRent.API.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -287,22 +289,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "VideoRent.API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "VideoRent.API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T22:20:56.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.API\\Program.cs",
               "RelativeDocumentMoniker": "VideoRent.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.API\\Program.cs",
               "RelativeToolTip": "VideoRent.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -312,9 +302,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Actor.cs",
-              "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Domain\\Actor.cs",
+              "DocumentMoniker": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Domain\\Actor.cs",
               "RelativeDocumentMoniker": "VideoRent.Domain\\Actor.cs",
-              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Domain\\Actor.cs",
+              "ToolTip": "C:\\Users\\Dennis\\OneDrive - Universidad de Costa Rica\\Escritorio\\Lenguajes para aplicaciones comerciales\\Lab.Net\\LabNet\\VideoRent.Domain\\Actor.cs",
               "RelativeToolTip": "VideoRent.Domain\\Actor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
