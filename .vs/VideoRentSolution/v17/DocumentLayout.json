@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.test\\data\\generodatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\data\\generodatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094207E9-5153-4467-A46B-725C2853554C}|VideoRent.Domain\\VideoRent.Domain.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.domain\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094207E9-5153-4467-A46B-725C2853554C}|VideoRent.Domain\\VideoRent.Domain.csproj|solutionrelative:videorent.domain\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.test\\data\\peliculadatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\data\\peliculadatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.api\\videorent.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|solutionrelative:videorent.api\\videorent.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82D63247-13EC-428A-B1E8-F24CBC62388F}|VideoRent.Data\\VideoRent.Data.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.data\\peliculadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.test\\domain\\peliculatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\domain\\peliculatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.api\\videorent.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2551D8C9-44CB-4F77-9D31-307BC02D37B4}|VideoRent.API\\VideoRent.API.csproj|solutionrelative:videorent.api\\videorent.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82D63247-13EC-428A-B1E8-F24CBC62388F}|VideoRent.Data\\VideoRent.Data.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.data\\videorent.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -31,24 +43,12 @@
       "RelativeMoniker": "D:0:0:{82D63247-13EC-428A-B1E8-F24CBC62388F}|VideoRent.Data\\VideoRent.Data.csproj|solutionrelative:videorent.data\\generodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.test\\data\\generodatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\data\\generodatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.test\\domain\\generotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\domain\\generotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.test\\videorent.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|solutionrelative:videorent.test\\videorent.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{094207E9-5153-4467-A46B-725C2853554C}|VideoRent.Domain\\VideoRent.Domain.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.domain\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{094207E9-5153-4467-A46B-725C2853554C}|VideoRent.Domain\\VideoRent.Domain.csproj|solutionrelative:videorent.domain\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{391C3E28-B3F6-49BA-85A4-D9D13EA9EF81}|VideoRent.Test\\VideoRent.Test.csproj|c:\\users\\lab01\\desktop\\lab\\videorentsolutiondotnet\\videorent.test\\videorent.test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -82,20 +82,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "Genero.cs",
               "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Domain\\Genero.cs",
               "RelativeDocumentMoniker": "VideoRent.Domain\\Genero.cs",
               "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Domain\\Genero.cs",
               "RelativeToolTip": "VideoRent.Domain\\Genero.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T17:07:18.687Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -107,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "VideoRent.API",
               "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.API\\VideoRent.API.csproj",
               "RelativeDocumentMoniker": "VideoRent.API\\VideoRent.API.csproj",
@@ -120,20 +121,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PeliculaDataTest.cs",
               "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\Data\\PeliculaDataTest.cs",
               "RelativeDocumentMoniker": "VideoRent.Test\\Data\\PeliculaDataTest.cs",
-              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\Data\\PeliculaDataTest.cs*",
-              "RelativeToolTip": "VideoRent.Test\\Data\\PeliculaDataTest.cs*",
-              "ViewState": "AgIAACAAAAAAAAAAAAAQwCgAAABPAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\Data\\PeliculaDataTest.cs",
+              "RelativeToolTip": "VideoRent.Test\\Data\\PeliculaDataTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T20:13:57.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "PeliculaTest.cs",
               "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\Domain\\PeliculaTest.cs",
               "RelativeDocumentMoniker": "VideoRent.Test\\Domain\\PeliculaTest.cs",
@@ -146,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\App.config",
               "RelativeDocumentMoniker": "VideoRent.Test\\App.config",
@@ -159,20 +160,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "GeneroDataTest.cs",
               "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\Data\\GeneroDataTest.cs",
               "RelativeDocumentMoniker": "VideoRent.Test\\Data\\GeneroDataTest.cs",
-              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\Data\\GeneroDataTest.cs",
-              "RelativeToolTip": "VideoRent.Test\\Data\\GeneroDataTest.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowDUAAAALAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\Data\\GeneroDataTest.cs*",
+              "RelativeToolTip": "VideoRent.Test\\Data\\GeneroDataTest.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wBcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T20:56:27.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "GeneroData.cs",
               "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Data\\GeneroData.cs",
               "RelativeDocumentMoniker": "VideoRent.Data\\GeneroData.cs",
@@ -185,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "PeliculaData.cs",
               "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Data\\PeliculaData.cs",
               "RelativeDocumentMoniker": "VideoRent.Data\\PeliculaData.cs",
@@ -198,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "GeneroTest.cs",
               "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\Domain\\GeneroTest.cs",
               "RelativeDocumentMoniker": "VideoRent.Test\\Domain\\GeneroTest.cs",
@@ -210,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Pelicula.cs",
               "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Domain\\Pelicula.cs",
               "RelativeDocumentMoniker": "VideoRent.Domain\\Pelicula.cs",
@@ -223,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "VideoRent.Data.csproj",
               "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Data\\VideoRent.Data.csproj",
               "RelativeDocumentMoniker": "VideoRent.Data\\VideoRent.Data.csproj",
@@ -236,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "VideoRent.Test.csproj",
               "DocumentMoniker": "C:\\Users\\Lab01\\Desktop\\lab\\VideoRentSolutionDotNet\\VideoRent.Test\\VideoRent.Test.csproj",
               "RelativeDocumentMoniker": "VideoRent.Test\\VideoRent.Test.csproj",
