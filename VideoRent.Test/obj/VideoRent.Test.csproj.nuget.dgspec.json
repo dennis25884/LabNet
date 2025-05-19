@@ -66,6 +66,10 @@
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[5.0.0, )"
+            },
+            "NUnitTDNet": {
+              "target": "Package",
+              "version": "[3.4.1, )"
             }
           },
           "imports": [

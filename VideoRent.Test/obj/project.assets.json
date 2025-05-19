@@ -1058,6 +1058,19 @@
           "build/netcoreapp3.1/NUnit3TestAdapter.targets": {}
         }
       },
+      "NUnitTDNet/3.4.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/nunit.framework.dll": {
+            "related": ".dll.tdnet;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/nunit.framework.dll": {
+            "related": ".dll.tdnet;.xml"
+          }
+        }
+      },
       "System.ClientModel/1.0.0": {
         "type": "package",
         "dependencies": {
@@ -1301,6 +1314,7 @@
           "Microsoft.Data.SqlClient": "6.0.2",
           "Microsoft.Extensions.Configuration.Abstractions": "9.0.5",
           "NUnit3TestAdapter": "5.0.0",
+          "NUnitTDNet": "3.4.1",
           "VideoRent.Domain": "1.0.0"
         },
         "compile": {
@@ -2835,6 +2849,44 @@
         "nunit_256.png"
       ]
     },
+    "NUnitTDNet/3.4.1": {
+      "sha512": "7ZCsKgnWZHdSWByCIEwS80GYhXuXblZ8cDv+iAXfuAfOBYZtHyxg/GY4WxS89Op5psVXI73B1GYUibRBbZ7xVQ==",
+      "type": "package",
+      "path": "nunittdnet/3.4.1",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CHANGES.txt",
+        "LICENSE.txt",
+        "NOTICES.txt",
+        "lib/net20/NUnit.System.Linq.dll",
+        "lib/net20/nunit.framework.dll",
+        "lib/net20/nunit.framework.dll.tdnet",
+        "lib/net20/nunit.framework.xml",
+        "lib/net35/nunit.framework.dll",
+        "lib/net35/nunit.framework.dll.tdnet",
+        "lib/net35/nunit.framework.xml",
+        "lib/net40/nunit.framework.dll",
+        "lib/net40/nunit.framework.dll.tdnet",
+        "lib/net40/nunit.framework.xml",
+        "lib/net45/nunit.framework.dll",
+        "lib/net45/nunit.framework.dll.tdnet",
+        "lib/net45/nunit.framework.xml",
+        "nunittdnet.3.4.1.nupkg.sha512",
+        "nunittdnet.nuspec",
+        "tools/Mono.Cecil.dll",
+        "tools/NUnitTDNet.Adapter.dll",
+        "tools/TestDriven.Framework.dll",
+        "tools/nunit-agent-x86.exe",
+        "tools/nunit-agent-x86.exe.config",
+        "tools/nunit-agent.exe",
+        "tools/nunit-agent.exe.config",
+        "tools/nunit.engine.api.dll",
+        "tools/nunit.engine.dll",
+        "tools/nunit.nuget.addins"
+      ]
+    },
     "System.ClientModel/1.0.0": {
       "sha512": "I3CVkvxeqFYjIVEP59DnjbeoGNfo/+SZrCLpRz2v/g0gpCHaEMPtWSY0s9k/7jR1rAsLNg2z2u1JRB76tPjnIw==",
       "type": "package",
@@ -3376,5 +3428,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"NUnitTDNet 3.4.1\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net9.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "NUnitTDNet",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
 }

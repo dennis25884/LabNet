@@ -28,7 +28,7 @@ public class PeliculaData
             cmdPelicula.Parameters.Add(new SqlParameter("@titulo", pelicula.Titulo));
             cmdPelicula.Parameters.Add(new SqlParameter("@subtitulada", pelicula.Subtitulada));
             cmdPelicula.Parameters.Add(new SqlParameter("@estreno", pelicula.Estreno));
-            cmdPelicula.Parameters.Add(new SqlParameter("@generoId", pelicula.Genero.GeneroId));
+            cmdPelicula.Parameters.Add(new SqlParameter("@genero_Id", pelicula.Genero.GeneroId));
 
             SqlCommand cmdPeliculaActor = connection.CreateCommand();
             cmdPeliculaActor.CommandText = "InsertPeliculaActor";

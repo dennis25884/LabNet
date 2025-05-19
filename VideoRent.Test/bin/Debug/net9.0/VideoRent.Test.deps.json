@@ -857,6 +857,7 @@
           "Microsoft.Testing.Platform.MSBuild": "1.5.3"
         }
       },
+      "NUnitTDNet/3.4.1": {},
       "System.ClientModel/1.0.0": {
         "dependencies": {
           "System.Memory.Data": "1.0.2",
@@ -967,19 +968,24 @@
         "dependencies": {
           "Microsoft.Data.SqlClient": "6.0.2",
           "Microsoft.Extensions.Configuration.Abstractions": "9.0.5",
+          "NUnit3TestAdapter": "5.0.0",
+          "NUnitTDNet": "3.4.1",
           "VideoRent.Domain": "1.0.0"
         },
         "runtime": {
           "VideoRent.Data.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
       },
       "VideoRent.Domain/1.0.0": {
+        "dependencies": {
+          "NUnit3TestAdapter": "5.0.0"
+        },
         "runtime": {
           "VideoRent.Domain.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1250,6 +1256,13 @@
       "sha512": "sha512-sy4cLoUAdE6TDM4wNX5gmNCyhMev5wUz4cA6ZRf/aON9vf9t4xTVGLj/4huhDKcS4dFfmVVcgcP70yC7WC9kKg==",
       "path": "nunit3testadapter/5.0.0",
       "hashPath": "nunit3testadapter.5.0.0.nupkg.sha512"
+    },
+    "NUnitTDNet/3.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7ZCsKgnWZHdSWByCIEwS80GYhXuXblZ8cDv+iAXfuAfOBYZtHyxg/GY4WxS89Op5psVXI73B1GYUibRBbZ7xVQ==",
+      "path": "nunittdnet/3.4.1",
+      "hashPath": "nunittdnet.3.4.1.nupkg.sha512"
     },
     "System.ClientModel/1.0.0": {
       "type": "package",
