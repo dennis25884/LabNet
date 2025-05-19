@@ -34,4 +34,11 @@ public class PeliculaDataTest
             "No se pudo insertar la pelicula en la base de datos.");
         Assert.That(peliculaToInsert.PeliculaId, Is.GreaterThan(0), "El ID de la pelicula no fue asignado correctamente.");
     }
+    [Test]
+    public async Task GetPeliculasPorTitulo_ReturnValues()
+    {
+        var peliculaData = new PeliculaData(this.connectionString);
+        List<Pelicula> peliculas = await peliculaData.GetPeliculasPorTitulo("Pe");
+        Assert.That(peliculas.Count, Is.GreaterThan(0));
+    }
 }
