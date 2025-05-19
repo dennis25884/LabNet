@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VideoRent.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+133e770f4b60842ec7dd52680389dfa2bc4776d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad1e0a160e0c21143ea352b77656a290d8798a11")]
 [assembly: System.Reflection.AssemblyProductAttribute("VideoRent.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VideoRent.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

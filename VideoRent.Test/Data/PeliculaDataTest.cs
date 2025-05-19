@@ -19,8 +19,8 @@ public class PeliculaDataTest
         var peliculaData = new PeliculaData(this.connectionString);
 
         //Datos de prueba
-        var genero = new Genero { GeneroId = 1, NombreGenero = "Accion" };
-        var actor1 = new Actor { ActorId = 1, NombreActor = "Actor 1", ApellidosActor = "Actor 1" };
+        var genero = new Genero { GeneroId = 35, NombreGenero = "Action" };
+        var actor1 = new Actor { ActorId = 1, NombreActor = "Tom", ApellidosActor = "Holland" };
         var peliculaToInsert = new Pelicula
         {
             Titulo = "Pelicula de Prueba",
